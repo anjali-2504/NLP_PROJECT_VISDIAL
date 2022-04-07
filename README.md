@@ -23,4 +23,4 @@ For the transformer part, we have used modifications such as combining the local
 
 *Link to Resnet visual features [https://drive.google.com/file/d/15q-SS_Juon_uLwd4eV2jQb0Q8i3pJqX2/view?usp=sharing]*
 
-*For visual transformer features extraction, you may need to run the following command. **pip install -q git+https://github.com/huggingface/transformers.git***
+*For visual transformer features extraction, you may need to run the following command. $pip install -q git+https://github.com/huggingface/transformers.git$*
