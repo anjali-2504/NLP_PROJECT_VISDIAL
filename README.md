@@ -18,6 +18,6 @@ For the transformer part, we have used modifications such as combining the local
 
 
 *Link to dataset [https://drive.google.com/drive/u/3/folders/1OKR5RN7HH8hAivCFvdJsXshygna1ffl9]*
-
+*Link to csv file [https://drive.google.com/file/d/1VzEcp0UK4LAah0Z2gkDRE9lz1OW2SK0w/view?usp=sharing]*
 *Link to Resnet visual features [https://drive.google.com/file/d/15q-SS_Juon_uLwd4eV2jQb0Q8i3pJqX2/view?usp=sharing]*
 
