@@ -17,5 +17,6 @@ For the transformer part, we have used modifications such as combining the local
 *At the end you may need to clean the feedbacks by removing the redundant sentences and rows from the csv before quantitative evaluation.Use the code of Post processing folder for the same.
 
 
-Link to dataset
-[https://drive.google.com/drive/u/3/folders/1OKR5RN7HH8hAivCFvdJsXshygna1ffl9]
+*Link to dataset [https://drive.google.com/drive/u/3/folders/1OKR5RN7HH8hAivCFvdJsXshygna1ffl9]
+*Link to Resnet visual features [https://drive.google.com/file/d/15q-SS_Juon_uLwd4eV2jQb0Q8i3pJqX2/view?usp=sharing]
+
